@@ -1,0 +1,44 @@
+#box {
+    height: 750px;
+    width: 530px;
+    background-color: rgb(0, 180, 251);
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    border-radius: 50px;
+}
+
+#Result {
+    height: 90px;
+    width: 440px;
+    margin-top: 40px;
+    margin-left: 45px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.925);
+}
+
+.btn {
+    height: 80px;
+    width: 80px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 40px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.234);
+}
+
+#equal{
+    width: 200px;
+    background-color:rgba(0, 0, 0, 0.427);
+}
+
+#x{
+    background-color:rgba(0, 0, 0, 0.427);
+}
+
+#c{
+    background-color:rgba(0, 0, 0, 0.427);
+}
